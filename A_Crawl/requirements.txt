@@ -1,0 +1,8 @@
+streamlit 
+transformers 
+torch 
+langchain 
+sentence-transformers 
+faiss-cpu 
+pyvi
+langchain_community
